@@ -1,0 +1,9 @@
+C:\Users\kesha\Desktop\project\let_see_if_it_works\let_see_if_it_works\bin\Debug\let_see_if_it_works.exe.config
+C:\Users\kesha\Desktop\project\let_see_if_it_works\let_see_if_it_works\bin\Debug\let_see_if_it_works.exe
+C:\Users\kesha\Desktop\project\let_see_if_it_works\let_see_if_it_works\bin\Debug\let_see_if_it_works.pdb
+C:\Users\kesha\Desktop\project\let_see_if_it_works\let_see_if_it_works\obj\Debug\let_see_if_it_works.csprojResolveAssemblyReference.cache
+C:\Users\kesha\Desktop\project\let_see_if_it_works\let_see_if_it_works\obj\Debug\let_see_if_it_works.Form1.resources
+C:\Users\kesha\Desktop\project\let_see_if_it_works\let_see_if_it_works\obj\Debug\let_see_if_it_works.Properties.Resources.resources
+C:\Users\kesha\Desktop\project\let_see_if_it_works\let_see_if_it_works\obj\Debug\let_see_if_it_works.csproj.GenerateResource.Cache
+C:\Users\kesha\Desktop\project\let_see_if_it_works\let_see_if_it_works\obj\Debug\let_see_if_it_works.exe
+C:\Users\kesha\Desktop\project\let_see_if_it_works\let_see_if_it_works\obj\Debug\let_see_if_it_works.pdb
